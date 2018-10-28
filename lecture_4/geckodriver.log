@@ -1,0 +1,89 @@
+1540397668539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ussMD1HuyTwJ"
+
+(firefox:5832): Gtk-WARNING **: 19:14:29.799: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:5832): Gtk-WARNING **: 19:14:29.799: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540397672429	Marionette	INFO	Listening on port 42849
+1540397672487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540397672552	Marionette	DEBUG	[2147483649] Frame script loaded
+1540397672553	Marionette	DEBUG	[2147483649] Frame script registered
+1540397672595	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540397673264	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540397673456	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540397674447	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+1540397714583	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fXwlCCg4Q7sR"
+
+(firefox:6093): Gtk-WARNING **: 19:15:16.139: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6093): Gtk-WARNING **: 19:15:16.139: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540397718377	Marionette	INFO	Listening on port 45505
+1540397718403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540397718458	Marionette	DEBUG	[2147483649] Frame script loaded
+1540397718461	Marionette	DEBUG	[2147483649] Frame script registered
+1540397718481	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540397720117	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540397720232	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540397721194	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+1540398007133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.A4ipjJRrG4h6"
+
+(firefox:6414): Gtk-WARNING **: 19:20:08.316: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6414): Gtk-WARNING **: 19:20:08.316: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540398010517	Marionette	INFO	Listening on port 39503
+1540398010551	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540398010595	Marionette	DEBUG	[2147483649] Frame script loaded
+1540398010606	Marionette	DEBUG	[2147483649] Frame script registered
+1540398010626	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540398012770	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540398013853	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://finance.yahoo.com/quote/BAB?p=BAB&.tsrc=fin-srch-v1
+1540398024981	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483688
+1540398030730	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483710
+1540398464435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7E5BNaRwQvUS"
+
+(firefox:6735): Gtk-WARNING **: 19:27:45.481: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6735): Gtk-WARNING **: 19:27:45.481: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540398467899	Marionette	INFO	Listening on port 41739
+1540398467952	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540398468015	Marionette	DEBUG	[2147483649] Frame script loaded
+1540398468016	Marionette	DEBUG	[2147483649] Frame script registered
+1540398468039	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540398470083	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540398470805	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+JavaScript error: https://awaps.yandex.net/0/c1/tVK-Oiz0m0j0DyMciZzbM9lIqwYD6YWOB-LTjJTwr1gPih3uNLhMKp1pTZZ0d_t22AJj26c8V7v--49sWRZzTjXb0h6Y2kQt4trsZaDFddwX9R6ryd4CXxRflHM_taakaT7DowfBsa1S403TVxjnlJJfisAXw4fiOg98H2inDZMnrSyVc5ZhquqaM_tnI9xxbXLJS3PQBnVw5H5aSIgv1e-nJjATzxMwl8IVYjJm+Ix+mO8w97wzhqh_t4ocjPL6Ad7Pyx-iQ+y2vNdumx5DsIDa0M4ivfGj-S8wJBus4qF0Cv1VJKdod_tc2oP4DP-4twy6TyO+ehZXASB7CBP0teZomw92GmO7B190ZVsvcfqN5-DMTNt_tAylnEdHcstDn4BJPCiHJ6K3QFBys7uIvGFSwfP5slUXOKbVcfl-dQY9IvED1_FsI6S29YA_A_.htm/data/?&link1=https://awaps.yandex.net/1/c1/tx21lszVAoU5Fo8Pyi8d5uyGMlV+pbuqiuomROJNcELKbKMFLOM63PiLomlEu_tN-9mwa1orPaZA18baYj6ln4J55UUb4TykL42YLUoHA0jhxeh8-BdeuEKTpjX_tQcVH90XZy4uMoZqV9Gi3w12zVIxK+q+QqlIf2IFMsfJE1B+RmkbzdBCHFbwy_t5X9NiK06Cn0ZLG+mx2pU2EQBXokSSbqyJDhZrBdjPZRo89BFijnriST5V8cx_t3C7iUXQYdLIJkVYk0p3SH0F7BkCk8kIbAOSB49xH80Qb12qThf3YSFF7fVIL_txNO2+7+CUAoZTdOtDz1+fBwWiVeHGTb7yVSXaw3yUlTTcFz+GFSWCYSfExC2_aI42dUNLkoHAKstz4+6Q58q+ahkorH5wDSccA_A_.htm&link2=&link3=&link4=&link5=&link6=&link7=&link8=&link9=&link10=, line 148: TypeError: document.getElementById(...) is null
+1540398472421	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.yandex.ru/
+1540398495562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3KAf0upSuX95"
+
+(firefox:6944): Gtk-WARNING **: 19:28:16.554: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:6944): Gtk-WARNING **: 19:28:16.554: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540398498994	Marionette	INFO	Listening on port 38421
+1540398499075	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540398499142	Marionette	DEBUG	[2147483649] Frame script loaded
+1540398499142	Marionette	DEBUG	[2147483649] Frame script registered
+1540398499154	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540398500962	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540398501688	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+1540398502989	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.yandex.ru/
+[Parent 6944, Gecko_IOThread] WARNING: pipe error (70): Соединение разорвано другой стороной: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540398524550	Marionette	INFO	Stopped listening on port 38421
+[Parent 6735, Gecko_IOThread] WARNING: pipe error (70): Соединение разорвано другой стороной: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540398534623	Marionette	INFO	Stopped listening on port 41739
+1540398536248	Marionette	INFO	Stopped listening on port 39503
+[Parent 6093, Gecko_IOThread] WARNING: pipe error (74): Соединение разорвано другой стороной: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540398537471	Marionette	INFO	Stopped listening on port 45505
+[Parent 5832, Gecko_IOThread] WARNING: pipe error (70): Соединение разорвано другой стороной: file /build/firefox-LCnNpq/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1540398538931	Marionette	INFO	Stopped listening on port 42849
+1540398702304	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.0yktNwPdcxZj"
+
+(firefox:7193): Gtk-WARNING **: 19:31:43.472: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:7193): Gtk-WARNING **: 19:31:43.472: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540398705828	Marionette	INFO	Listening on port 39059
+1540398705922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540398705970	Marionette	DEBUG	[2147483649] Frame script loaded
+1540398705970	Marionette	DEBUG	[2147483649] Frame script registered
+1540398705983	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540398707642	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540398708590	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.yandex.ru/
+1540398710357	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.yandex.ru/
